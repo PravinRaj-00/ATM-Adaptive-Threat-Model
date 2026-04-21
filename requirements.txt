@@ -1,0 +1,5 @@
+shamir-mnemonic
+cryptography
+argon2-cffi
+qrcode
+psutil
