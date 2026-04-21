@@ -144,9 +144,9 @@ This project was developed as a Final Year Project for the BSc (Honours) in Cybe
 - **Student:** Pravin Raj Morgan (C00313630)
 - **Supervisor:** Richard Butler
 - **Programme:** Y4 ZPROC4204
-- **Academic Year:** 2024/2025
+- **Academic Year:** 2025/2026
 
-The threat model and design rationale are grounded in documented real-world incidents: Operation RUBICON (CIA/BND Crypto AG compromise), CVE-2023-31290 (Trust Wallet entropy failure), the Ledger data breach (2020), and Edward Snowden's 2024 warning on AI-powered financial surveillance.
+The threat model and design rationale are grounded in documented real-world incidents: Operation RUBICON (CIA/BND Crypto AG compromise), CVE-2023-31290 (Trust Wallet entropy failure), the Ledger data breach (2020).
 
 ---
 
